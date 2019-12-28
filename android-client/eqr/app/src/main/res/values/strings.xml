@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name" translatable="false">EDGP</string>
+
+    <string name="under_mag">ریشتر</string>
+    <string name="dep">عمق : </string>
+    <string name="km"> km </string>
+    <string name="lat">عرض : </string>
+    <string name="lng">طول : </string>
+    <string name="btn_update">به روز رسانی</string>
+    <string name="msg_update">در حال به روز رسانی...</string>
+    <string name="title_activity_act_report">ActReport</string>
+
+    <string name="txv_sex">جنسیت :</string>
+    <string name="rdb_sex_0">مرد</string>
+    <string name="rdb_sex_1">زن</string>
+
+    <string name="txv_blt">مشخصات ساختمان :</string>
+    <string name="rdb_blt_0">بتنی</string>
+    <string name="rdb_blt_1">فلزی</string>
+    <string name="rdb_blt_2">بنایی</string>
+    <string name="rdb_blt_3">خشتی</string>
+    <string name="rdb_blt_4">نمیدانم</string>
+
+    <string name="txv_blf">تعداد طبقات ساختمان؟</string>
+    <string name="hint_blf">همکف = ۰</string>
+
+    <string name="txv_floor">طبقه‌ای که زلزله را حس کرده اید؟</string>
+    <string name="hint_floor">همکف = ۰</string>
+
+    <string name="txv_blc">وضعیت ساخت ساختمان به نظر شما :</string>
+    <string name="rdb_blc_0">خوب</string>
+    <string name="rdb_blc_1">متوسط</string>
+    <string name="rdb_blc_2">ضعیف</string>
+    <string name="rdb_blc_3">نمیدانم</string>
+
+    <string name="txv_felt">آیا زلزله‌ای احساس کردید؟</string>
+    <string name="rdb_felt_0">بلی</string>
+    <string name="rdb_felt_1">خیر</string>
+
+    <string name="txv_lcn">موقعیت شما در حین زلزله چه بود؟</string>
+    <string name="rdb_lcn_0">داخل ساختمان</string>
+    <string name="rdb_lcn_1">خارج ساختمان</string>
+    <string name="rdb_lcn_2">داخل وسیله نقلیه ساکن</string>
+    <string name="rdb_lcn_3">داخل وسیله نقلیه متحرک</string>
+    <string name="rdb_lcn_4">نامشخص</string>
+
+    <string name="txv_sleep">آیا خواب بودید؟</string>
+    <string name="rdb_sleep_0">خیر</string>
+    <string name="rdb_sleep_1">خواب بودم</string>
+    <string name="rdb_sleep_2">از خواب بیدار شدم</string>
+    <string name="rdb_sleep_3">نامشخص</string>
+
+    <string name="txv_ppf">چه تعدادی از افراد نزدیک شما زلزله را حس کردند؟</string>
+    <string name="rdb_ppf_0"> احساس نکردند</string>
+    <string name="rdb_ppf_1">تعداد خیلی کم</string>
+    <string name="rdb_ppf_2"> تعدادی</string>
+    <string name="rdb_ppf_3">تعداد زیاد</string>
+    <string name="rdb_ppf_4">همه</string>
+    <string name="rdb_ppf_5">نمی‌دانم</string>
+
+    <string name="txv_vib">لرزش را چگونه توصیف می‌کنید؟</string>
+    <string name="rdb_vib_0"> احساس نکردم</string>
+    <string name="rdb_vib_1">ضعیف</string>
+    <string name="rdb_vib_2"> ملایم</string>
+    <string name="rdb_vib_3">متوسط</string>
+    <string name="rdb_vib_4">قوی</string>
+    <string name="rdb_vib_5">خیلی قوی (ویرانگر)</string>
+    <string name="rdb_vib_6">نمی‌دانم</string>
+
+    <string name="txv_emr">واکنش شما چگونه بود (واکنش احساسی) ؟</string>
+    <string name="rdb_emr_0">بدون واکنش/حس نکردم</string>
+    <string name="rdb_emr_1">واکنش جزیی </string>
+    <string name="rdb_emr_2"> هیجان زده</string>
+    <string name="rdb_emr_3">تقریبا وحشت زده </string>
+    <string name="rdb_emr_4"> وحشت زده</string>
+    <string name="rdb_emr_5">خیلی وحشت زده </string>
+    <string name="rdb_emr_6">نمی‌دانم</string>
+
+    <string name="txv_per">چه تعداد افراد نزدیک شما ترسیدند ؟</string>
+    <string name="rdb_per_0">هیچکس</string>
+    <string name="rdb_per_1">تعداد کم </string>
+    <string name="rdb_per_2">  تعداد زیاد </string>
+    <string name="rdb_per_3">همه در خانه</string>
+    <string name="rdb_per_4">ترس عمومی</string>
+
+    <string name="txv_rcn">چه کاری انجام دادید؟</string>
+    <string name="rdb_rcn_0">هیچ کاری انجام ندادم</string>
+    <string name="rdb_rcn_1">به سمت در رفتم</string>
+    <string name="rdb_rcn_2">خم شدم و پناه گرفتم</string>
+    <string name="rdb_rcn_3">به بیرون فرار کردم</string>
+    <string name="rdb_rcn_4">نمی‌دانم</string>
+
+    <string name="txv_rcm">سایر:</string>
+
+    <string name="txv_wlk">آیا ایستادن و یا راه رفتن سخت بود؟</string>
+    <string name="rdb_wlk_0"> بلی</string>
+    <string name="rdb_wlk_1">خیر</string>
+    <string name="rdb_wlk_2">نمی‌دانم</string>
+
+    <string name="txv_lmv">آیا متوجه حرکت در و یا حرکت اشیای آویزان شدید؟</string>
+    <string name="rdb_lmv_0">خیر</string>
+    <string name="rdb_lmv_1">بلی/تکان(حرکت) جزیی  </string>
+    <string name="rdb_lmv_2">بلی/تکان(حرکت) شدید</string>
+    <string name="rdb_lmv_3">نمی‌دانم</string>
+
+    <string name="txv_snd">آیا صدای جیر-جیر در و یا صداهای دیگر شنید؟</string>
+    <string name="rdb_snd_0">بلی/صدای جزیی</string>
+    <string name="rdb_snd_1"> بلی/صدای بلند</string>
+    <string name="rdb_snd_2">نمی‌دانم</string>
+
+    <string name="txv_omv">آیا اشیا از قفسه افتادند/واژگون شدند/سر و صدایی ایجاد کردند ( مثلا وسایل آشپزخانه)</string>
+    <string name="rdb_omv_0">نمی‌دانم</string>
+    <string name="rdb_omv_1">خیر</string>
+    <string name="rdb_omv_2">  سر و صدای کم</string>
+    <string name="rdb_omv_3">سرو صدای زیاد </string>
+    <string name="rdb_omv_4">تعدادی سرنگون شده و افتاده</string>
+    <string name="rdb_omv_5">اکثرا افتاده و سرنگون شده</string>
+    <string name="rdb_omv_6"> تقریبا همه چیز سرنگون شده و افتاده</string>
+
+    <string name="txv_fmv">آیا تابلوهای روی دیوار حرکت می‌کردند (تکان میخوردند)؟و به دیوار برخورد می‌کردند؟</string>
+    <string name="rdb_fmv_0">نمی‌دانم</string>
+    <string name="rdb_fmv_1">خیر</string>
+    <string name="rdb_fmv_2"> بلی ، ولی نیفتادند</string>
+    <string name="rdb_fmv_3">بلی ، بعضی افتادند</string>
+
+    <string name="txv_bom">آیا اثاثیه و لوازم خانه (مبل و...) لغزیدند/واژگون شدند/تغییر مکان دادند؟</string>
+    <string name="rdb_bom_0">نمی‌دانم</string>
+    <string name="rdb_bom_1">بلی</string>
+    <string name="rdb_bom_2">خیر</string>
+
+    <string name="txv_hom">آیا لوازم سنگین (یخجال و مانند اینها ) متاثر شدند؟</string>
+    <string name="rdb_hom_0">نمی‌دانم</string>
+    <string name="rdb_hom_1">خیر</string>
+    <string name="rdb_hom_2">بلی ، بعضی محتوا بیرون ریختند</string>
+    <string name="rdb_hom_3">بلی ، چندین سانتی‌متر جابجا شدند</string>
+    <string name="rdb_hom_4"> بلی  در حدود نیم‌ مترجابجا شدند </string>
+    <string name="rdb_hom_5">بلی واژگون شدند</string>
+
+    <string name="txv_wll">آیا دیوارکشی‌های اطراف حیاط و ساختمان  یا فنس‌ها آسیب دیدند ؟</string>
+    <string name="rdb_wll_0">نمی‌دانم</string>
+    <string name="rdb_wll_1">خیر</string>
+    <string name="rdb_wll_2">بلی ، بعضی ترک خوردند</string>
+    <string name="rdb_wll_3">بلی ، بعضی قسمت‌ها افتادند/واژگون شدند </string>
+    <string name="rdb_wll_4">بلی ، بعضی کاملا افتادند/واژگون شدند </string>
+
+    <string name="txv_dmg">آیا به ساختمان آسیبی وارد شد؟</string>
+    <string name="rdb_dmg_0">بدون آسیب</string>
+    <string name="rdb_dmg_1">ترک‌های مویی در دیوارها تیغه‌ها</string>
+    <string name="rdb_dmg_2">تعدادی ترک‌های بزرگ در دیوارها </string>
+    <string name="rdb_dmg_3">تعداد زیادی ترک بزرگ در دیوارها</string>
+    <string name="rdb_dmg_4"> کاشی سقف ، و لوستر و وسایل روشنایی افتادند</string>
+    <string name="rdb_dmg_5">قسمتی از نمای ساختمان آسیب جزئی دید</string>
+    <string name="rdb_dmg_6"> یک یا تعدادی پنجره ترک خورده</string>
+    <string name="rdb_dmg_7">بیشتر پنجره‌ها ترک خورد بعضی از چهارچوب بیرون افتاد</string>
+    <string name="rdb_dmg_8"> افتادن مصالح بنایی از دیوارهای بلوکی و آجری</string>
+    <string name="rdb_dmg_9">نمای ساختمان تخریب شد</string>
+    <string name="rdb_dmg_10">جدا شدن بالکن/ایوان و سایر وسایل وصل شده به ساختمان</string>
+    <string name="rdb_dmg_11">ساختمان از پی بطور کامل (دائمی) جابجا شد</string>
+
+    <string name="btn_submit">ثبت</string>
+    <string name="btn_cancel">انصراف</string>
+    <string name="msg_submited">گزارش شما ثبت شد.</string>
+
+    <string name="title_activity_act_splash_screen">ActSplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_act_main_menu">ActMainMenu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about">
+        برنامه‌ی EDGP توسعه‌داده شده تا در کنار نمایش زلزله‌های اخیر ایران، اطلاعات کافی در مورد زلزله‌ها را توسط کسانی که زلزله را احساس کرده‌اند ثبت کند.
+\n
+ با استفاده از کاربران وسیع اینترنت می‌توانیم به تعریف کامل‌تری از آنچه مردم تجربه کرده‌اند، آثار زلزله و وسعت خسارات پی ببریم. مهم‌تر از همه این امر به صورت مستقیم و فور و با کمک شما انجام می‌پذیرد.
+\n
+ این برنامه اطلاعاaت آخرین زمین‌لرزه‌های رخ داده در کشور را بر اساس آمار مرکز لرزه‌نگاری کشوری، موسسه‌ی ژئوفیزیک دانشگاه تهران برای شما نمایش می‌دهد.
+    </string>
+    <string name="mag_postfix">ریشتر</string>
+    <string name="title_activity_act_test">Map</string>
+    <string name="btn_report">این زلزله را احساس کردم</string>
+    <string name="label_report">گزارش زلزله</string>
+
+    <string name="title_home">لیست زلزله‌ها</string>
+    <string name="title_map">نقشه</string>
+    <string name="title_about">درباره‌ی ما</string>
+</resources>
